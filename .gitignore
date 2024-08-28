@@ -1,0 +1,5 @@
+config/local.yaml
+storage/*
+.idea/
+logs/*
+clone_insta_sso
